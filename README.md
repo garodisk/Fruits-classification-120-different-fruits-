@@ -37,6 +37,10 @@ Image size: 100x100 pixels.
 First, I will mount my drive and use Kaggle's API to download data directly into the drive. It just takes a few secs to download around 800 MB of the fruits dataset
 
 
+Here's my blog on this:
+
+https://medium.com/@saketgarodia/image-classification-using-cnn-and-transfer-learning-approaches-8be8ffe4ff39?source=friends_link&sk=bc63af427ab151b8cda06ec3ad47fbe8
+
 For Machine Learning approach, go through this link. Because of colab's computational issues, I used Kaggle kernel for this.
 
 https://www.kaggle.com/saketgarodia1/kernel3d32a7bd5e?scriptVersionId=26482270
