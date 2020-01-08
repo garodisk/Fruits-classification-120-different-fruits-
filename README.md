@@ -35,3 +35,8 @@ Number of classes: 120 (fruits and vegetables).
 Image size: 100x100 pixels.
 
 First, I will mount my drive and use Kaggle's API to download data directly into the drive. It just takes a few secs to download around 800 MB of the fruits dataset
+
+
+For Machine Learning approach, go through this link. Because of colab's computational issues, I used Kaggle kernel for this.
+
+https://www.kaggle.com/saketgarodia1/kernel3d32a7bd5e?scriptVersionId=26482270
